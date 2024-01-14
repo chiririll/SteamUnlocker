@@ -8,4 +8,8 @@
     <RootNamespace>SteamTest</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Steamworks.NET" Version="20.1.0" />
+  </ItemGroup>
+
 </Project>
